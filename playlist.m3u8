@@ -115,9 +115,9 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-logo="https://thegolfwire.com/wp-content/uploads/2019/11/23795898101551859344166762537670598859696946n.jpg" group-title="Olahraga",GOLF CHANNEL
 http://brhn.xyz/mix/visionplus/golf.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Film",BOGAR TV
+#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Film",BEBERAPA CHANNEL TERKADANG TIDAK DAPAT DI PUTAR
 http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Film",PLAYLIST INI FREEMIUM BUATAN OBET
+#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Film",MOHON MAKLUM NAMANYA JUGA FREEMIUM
 http://brhn.xyz/info.m3u8
 #EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
 https://brhn.xyz/hbogotest/m3u/hbo.m3u8
