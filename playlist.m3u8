@@ -119,32 +119,6 @@ http://brhn.xyz/mix/visionplus/golf.m3u8
 http://brhn.xyz/info.m3u8
 #EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Film",MOHON MAKLUM NAMANYA JUGA FREEMIUM
 http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO HD
-https://brhn.xyz/hbogotest/m3u/hbo.m3u8
-#EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="Film",HBO SD
-https://brhn.xyz/hbogoasia/m3u/hbo.m3u8
-#EXTINF:0 tvg-name="HBOHits.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits HD
-https://brhn.xyz/hbogotest/m3u/hits.m3u8
-#EXTINF:0 tvg-name="HBOHits.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/73815130-d24c-46de-b09a-e2a16ebec277.png" group-title="Film",HBO Hits SD
-https://brhn.xyz/hbogoasia/m3u/hits-sd.m3u8
-#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family HD
-https://brhn.xyz/hbogotest/m3u/fam.m3u8
-#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/1cedc4e0-f1b2-479a-9e33-af1d539fa3eb.jpg" group-title="Film",HBO Family SD
-https://brhn.xyz/hbogoasia/m3u/fam-sd.m3u8
-#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature HD
-https://brhn.xyz/hbogotest/m3u/sig.m3u8
-#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/49b54b9d-93e2-483b-8613-6a0e655b0435.png" group-title="Film",HBO Signature SD
-https://brhn.xyz/hbogoasia/m3u/sig-sd.m3u8
-#EXTINF:0 tvg-name="HBO.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO HD
-https://brhn.xyz/hbogotest/m3u/red.m3u8
-#EXTINF:0 tvg-name="HBO.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png" group-title="Film",Red By HBO SD
-https://brhn.xyz/hbogoasia/m3u/red-sd.m3u8
-#EXTINF:0 tvg-name="Cinemax.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax HD
-https://brhn.xyz/hbogotest/m3u/max.m3u8
-#EXTINF:0 tvg-name="Cinemax.id" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2cdd3bb0-574b-4b79-a4c4-10af1ed3fb6b.png" group-title="Film",Cinemax SD
-https://brhn.xyz/hbogoasia/m3u/max-sd.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Film",Warner TV ID HD
-http://brhn.xyz/useetvgo/m3u/warner.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1063445068722393089/sszubbtC_400x400.jpg" group-title="Film",Fox
 http://brhn.xyz/mix/fox.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Film",Fox Movies
