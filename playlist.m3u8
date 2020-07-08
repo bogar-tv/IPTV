@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="TV Nasional",Channel Info
+#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="TV Nasional",BOGAR TV
 http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="TV Nasional",PLAYLIST INI FREEMIUM BUATAN OBET
+#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="TV Nasional",PLAYLIST INI FREEMIUM BUATAN OBET
 http://brhn.xyz/info.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="TV Nasional",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
