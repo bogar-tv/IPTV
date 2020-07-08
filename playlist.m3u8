@@ -14,7 +14,7 @@ http://brhn.xyz/mnc/antv.php
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV Nasional",SCTV
 https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="TV Nasional",Indosiar
-http://brhn.xyz/vidiodotcom/indosiarbackup.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1594232800~acl=/hls-p/ingest_geo_205_*/*~hmac=a29fd753e1f69a502bc81916c829783b42b30e9e5d669240b30912163823338f/hls-p/ingest_geo_205_720p/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI
 http://brhn.xyz/mnc/rcti.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="TV Nasional",GLOBALTV
