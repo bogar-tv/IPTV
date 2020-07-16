@@ -331,109 +331,6 @@ http://brhn.xyz/mix/visionplus/lifetime.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/617/925/png-transparent-tlc-television-show-logo-business-animal-family-television-text-trademark.png" group-title="Gaya Hidup",TLC
 http://brhn.xyz/mix/visionplus/tlc.m3u8
 
-
-#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Berita dan Informasi",BOGAR TV
-http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Berita dan Informasi",PLAYLIST INI FREEMIUM BUATAN OBET
-http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="Berita dan Informasi",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" group-title="Berita dan Informasi",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="Berita dan Informasi",ABC Australia
-http://brhn.xyz/useetvgo/m3u/abcaustralia.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/deutsche_welle.png" group-title="Berita dan Informasi",DW TV Asia
-http://210.210.155.35/qwr9ew/s/s26/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-x7xFtvyiszc/VwSRgKroVrI/AAAAAAAAdKE/3KIriwLqcusTN60EcJP8wu5mRubV2jddA/s1600/cctv-4-logo.png" group-title="Berita dan Informasi",CN: CCTV 4
-http://210.210.155.35/qwr9ew/s/s19/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.telesurtv.net/__export/1528575972054/sites/telesur/img/news/2018/06/09/logo-telesur_jpg_1718483346_x1x.jpg" group-title="Berita dan Informasi",Telesur
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.cartica.com/wp-content/uploads/2017/06/BLOOMBERG-tv-LOGO.jpg" group-title="Berita dan Informasi",Bloomberg TV Asia
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1168824925110620161/aClpPizp_400x400.jpg" group-title="Berita dan Informasi",EuroNews
-http://210.210.155.35/qwr9ew/s/s15/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://archive.org/download/sky-news-logo/sky-news-logo.jpg" group-title="Berita dan Informasi",SKY News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/413Hmw5EDuL.png" group-title="Berita dan Informasi",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/cgtn.png" group-title="Berita dan Informasi",CGTN News
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/trtworld.png" group-title="Berita dan Informasi",TRT World
-https://tv-trtworld.live.trt.com.tr/master_480.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="Berita dan Informasi",Africa News
-http://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" group-title="Berita dan Informasi",RT English
-http://210.210.155.35/qwr9ew/s/s23/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1045.1565613151.png" group-title="Berita dan Informasi",BBC World News
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=49C9B533CE6A1DCB536F863DD2A14413DF50853A&profile=pass
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" group-title="Berita dan Informasi",Aljazeera English
-http://210.210.155.35/qwr9ew/s/s17/01.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png" group-title="Berita dan Informasi",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dtbhzdanf36fd.cloudfront.net/agencies/40250/logo_original.png" group-title="Berita dan Informasi",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
-
-
-#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Extra Chanel",BOGAR TV
-http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="Extra Chanel",PLAYLIST INI FREEMIUM BUATAN OBET
-http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1083149125112086528/ywFqohr8_400x400.jpg" group-title="Extra Chanel",Love Nature
-http://brhn.xyz/vidiodotcom/lovenature.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://baltimore.cbslocal.com/wp-content/uploads/sites/15910056/2011/01/718055.jpg" group-title="Extra Chanel",SmithSonian
-http://brhn.xyz/vidiodotcom/smithsonian.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/niD6wAnYVr5lC8PQowrFKdTrs8I=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg" group-title="Extra Chanel",Fashion TV Midnight Secrets
-http://brhn.xyz/vidiodotcom/fashionplus.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Extra Chanel",tvN
-http://brhn.xyz/kochenk/tvn.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_109.png" group-title="Extra Chanel",tvN Movies
-http://brhn.xyz/kochenk/tvnm.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-nBglMMe-UwM/XYTVyvQBUKI/AAAAAAAAojg/RMUFuuH7N3cqMJsGKEDhqY8sYAoEMhihwCLcBGAsYHQ/s1600/citra-bioskop-channel-tv-logo.png" group-title="Extra Chanel",Citra Bioskop
-http://brhn.xyz/mix/cb.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/MEIUq0A9l5R7QgR1ZvxQ6xhEfpU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg" group-title="Extra Chanel",Citra Entertainment
-http://brhn.xyz/mix/ce.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qz6Ei_q1HJYEL2VIPtVPn3wErxE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg" group-title="Extra Chanel",Citra Muslim
-http://brhn.xyz/mix/cm.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HBUdLVfuZstgnOKIyeCjQZQ6xTg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg" group-title="Extra Chanel",Citra Dangdut
-http://brhn.xyz/mix/cd.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/kRONfwdTkKFzaWYeaflzrhtWYCE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-cd5af1.jpg" group-title="Extra Chanel",Champion TV1
-http://brhn.xyz/mix/cm1.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/SsouRMNZK4hD43qxT7pCSV0asdg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-e0b0b4.jpg" group-title="Extra Chanel",Champion TV2
-http://brhn.xyz/mix/cm2.php
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zkQxfsks0bJ3XeNB4nuacevaJTQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-952d29.jpg" group-title="Extra Chanel",Champion TV3
-http://brhn.xyz/mix/cm3.php
-
-#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="TV RELIGI",BOGAR TV
-http://brhn.xyz/info.m3u8
-#EXTINF:0 tvg-id="" tvg-name="BOGAR TV" tvg-logo="https://www.expozoo.com/wp-content/uploads/2017/12/logo-Bogar.jpg" group-title="TV RELIGI",PLAYLIST INI FREEMIUM BUATAN OBET
-http://brhn.xyz/info.m3u8
-#EXTINF:0  tvg-logo="https://tv9.co.id/images/foot-icon.png" group-title="TV RELIGI",TV 9 Nusantara
-http://brhn.xyz/useetvgo/m3u/tv9.m3u8
-#EXTINF:0  tvg-logo="https://4.bp.blogspot.com/-3vLl9FLuG7Y/WGdfkzywsqI/AAAAAAAAguI/SzWejpEfAEMjs9Z0wssljtAvxQIjsuvlQCLcB/s1600/insan-tv-channel-logo.png" group-title="TV RELIGI",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-#EXTINF:0  tvg-logo="https://ahsan.tv/wp-content/uploads/2019/12/AhsanTV-logo01.jpg" group-title="TV RELIGI",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
-#EXTINF:0  tvg-logo="https://3.bp.blogspot.com/-kQGGDnfL8CY/Vafnd6qGqiI/AAAAAAAAFV8/3Ujm7qCd9ds/s200/Tahfidz%2BTV%2Bstreaming%2BOnline.png" group-title="TV RELIGI",TAHFIDZ TV
-http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
-#EXTINF:0  tvg-logo="https://buyayahya.org/wp-content/uploads/2018/01/AL-BAHJAH-TV-OK-3-1.png" group-title="TV RELIGI",AL Bahjah
-https://edge.siar.us/albahjahtv/live/playlist.m3u8
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" group-title="TV RELIGI",MAKKAH
-http://210.210.155.35/qwr9ew/s/s28/01.m3u8
-#EXTINF:0  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/22ac9468582045.Y3JvcCwyMzAxLDE4MDAsMTQ4LDA.jpg" group-title="TV RELIGI",MADINAH
-http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:0  tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV RELIGI",ADI TV
-http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:0  tvg-logo="https://aditv.co.id/wp-content/uploads/2019/02/logo-aditv.png" group-title="TV RELIGI",AL IMAN
-http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-#EXTINF:0  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Salamtv.png" group-title="TV RELIGI",SALAM TV
-http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
-#EXTINF:0 tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-rifqan-tv.png" group-title="TV RELIGI",RIFQAN TV
-http://119.82.232.89:1935/rifqan/live/playlist.m3u8
-#EXTINF:0  tvg-logo="http://www.tvonline.co.id/wp-content/uploads/2019/03/tv-online-puldapii-tv.png" group-title="TV RELIGI",PULDAPIL
-http://178.128.121.192/hlsmobile/web.m3u8
-#EXTINF:0  tvg-logo="https://www.santo-laurensius.org/wp-content/uploads/2018/12/hidup-tv.png" group-title="TV RELIGI",Hidup TV
-http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
-
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Lokal",Trans TV HD BOGAR TV 
@@ -688,25 +585,25 @@ http://iptv-wow.my.id/jupuk/data/ts6.m3u8
 http://iptv-wow.my.id/jupuk/data/ts7.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="Movies",HBO HD iptv-wow.my.id 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="Movies",HBO HD BOGAR TV 
 http://iptv-wow.my.id/tv/hbohd/m3u/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="Movies",HBO Family HD iptv-wow.my.id 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="Movies",HBO Family HD BOGAR TV 
 http://iptv-wow.my.id/tv/hbohd/m3u/fam.m3u8
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="Movies",HBO Hits HD iptv-wow.my.id 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/f9e915bc-2e3d-4bee-86a3-d1b689d98152.png" group-title="Movies",HBO Hits HD BOGAR TV 
 http://iptv-wow.my.id/tv/hbohd/m3u/hits.m3u8
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="Movies",HBO Signature HD iptv-wow.my.id 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/33b62539-fe26-4eae-a03f-75b5d1754f05.png" group-title="Movies",HBO Signature HD BOGAR TV 
 http://iptv-wow.my.id/tv/hbohd/m3u/sig.m3u8
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="Movies",Cinemax HD iptv-wow.my.id 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/40b8a63f-dde1-4813-9c62-3ffc0d7f35c8.png" group-title="Movies",Cinemax HD BOGAR TV 
 http://iptv-wow.my.id/tv/hbohd/m3u/max.m3u8
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="Movies",HBO RED HD iptv-wow.my.id 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="Movies",HBO RED HD BOGAR TV 
 http://iptv-wow.my.id/tv/hbohd/m3u/red.m3u8
 
-#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="Movies",HBO SD iptv-wow.my.id 
+#EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="Movies",HBO SD BOGAR TV 
 http://iptv-wow.my.id/tv/hbosd/m3u/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/eedae4cd-a010-4405-b545-28902eb1dbb0.png" group-title="Movies",HBO Family SD BOGAR TV 
