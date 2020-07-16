@@ -1662,3 +1662,286 @@ http://211.245.55.198:1024/m2u/239.192.52.8:49220
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png?v=2.0.0.13" group-title="Test",test 1 BOGAR TV 
 https://autolistmaling.dstream.xyz/f/play_antv_VI0l4136emPir3.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",BEGIN AGAIN
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/11990/19084/2c9c55d7-93e9-4604-8f6c-c366e9b555ba/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",CLOUD ATLAS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/dd6cfe49-53c0-455f-bc4c-bd7e8b09c7e6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",IMAGINAERUM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e7dc8643-8e79-4a78-941d-3005cb4e04ec/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",PREDESTINATION
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/a5e56786-2546-44d2-ad10-5d4830c53ee4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",A MONSTER CALLS
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/17303/695/982f8af7-fae4-44b0-bead-0a8b998be55e/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",ESCAPE PLAN
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e27947a8-4d65-4693-b485-903b69d674e4/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",THE IMPOSSIBLE
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/82ac8bc6-5179-4ceb-b9a2-06e0c360aad6/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",THE HOST
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3-fa16ee0af281/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",WARM BODIES
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",YOU NOW SEE ME
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/92a8954a-1873-4f61-85e6-20ad323ff6a3/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES",YOU NOW SEE ME 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/e86b43d6-e58a-4ca1-8480-fe88ffa72b16/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || SUNYI(2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Sunyi.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || POCONG THE ORIGIN (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Pocong.The.Origin.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || PUSAKA (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Pusaka.2019.HDRip.480p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || ROY KIYOSHI : THE UNTOLD STORY (2019)
+https://bitball.b-cdn.net/movies/indonesia/Roy.Kiyosi.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || DANUR 3 : SUNYARURI (2019)
+https://bitball.b-cdn.net/movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || ROH FASIK (2019)
+https://bitball.b-cdn.net/movies/indonesia/Roh.Fasik.2019.WEBRip.1080p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || MATA BATIN 2 (2019)
+https://zaccar.b-cdn.net/movies/01-10-2020/Mata.Batin.2.(2019).mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || SEKTE (2019)
+https://bitball.b-cdn.net/movies/02-12-2020/Sekte.2019.WEB-DL.480p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || REVA : GUNA GUNA (2019)
+https://bitball.b-cdn.net/movies/02-14-2020/Reva.Guna.Guna.2019.HDTC.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || RASUK (2018)
+https://bitball.b-cdn.net/movies/02-16-2020/Rasuk.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || BISISKAN IBLIS (2018)
+https://bitball.b-cdn.net/movies/03-01-2020/Bisikan.Iblis.2018.WEB-HD.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || KEMBANG KANTIL (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Kembang%20Kantil.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || JAGA POCONG (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Jaga.Pocong.2018.HDTC.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || BAYI GAIB (2018)
+https://bitball.b-cdn.net/movies/02-14-2020/Bayi.Gaib.2018.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || SUZANNA : BURIED A LIVE (2018)
+https://bitball.b-cdn.net/movies/indonesia/suzzannabernapas.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || SESAT (2018)
+https://bitball.b-cdn.net/movies/indonesia/sesat.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || BISIKAN IBLIS (2018)
+https://bitball.b-cdn.net/movies/indonesia/bisikaniblis.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || ARWAH TUMBAL NYAI (2018)
+https://bitball.b-cdn.net/movies/indonesia/arwahtumbalnyai.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || GASING TENGKORAK (2017)
+https://bitball.b-cdn.net/movies/02-14-2020/Gasing.Tengkorak.2017.WEB-HD.720p.DD5.1.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || RUMAH MALAIKAT (2016)
+https://bitball.b-cdn.net/movies/02-14-2020/Rumah.Malaikat.2016.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || KAKAK (2015)
+https://bitball.b-cdn.net/movies/02-16-2020/Kakak.2015.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || DANAU HITAM (2014)
+https://bitball.b-cdn.net/movies/02-16-2020/Danau.Hitam.2014.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || MALL KLENDER (2014)
+https://bitball.b-cdn.net/movies/02-14-2020/Mall.Klender.2014.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || DRAKULA CINTA (2014)
+https://bitball.b-cdn.net/movies/02-14-2020/Drakula.Cinta.2014.DVDRip.480p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || SARANG HANTU JAKARTA (2014)
+https://bitball.b-cdn.net/movies/02-12-2020/Sarang.Hantu.Jakarta.2014.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || KAFAN SUNDEL BOLONG (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Kafan.Sundel.Bolong.2012.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || BANGKITNYA SISTER GEPENG (2012)
+https://bitball.b-cdn.net/movies/02-16-2020/Bangkitnya.Suster.Gepeng.2012.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || RUMAH BEKAS KUBURAN (2012)
+https://bitball.b-cdn.net/movies/02-12-2020/Rumah.Bekas.Kuburan.2012.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || ADA APA DENGAN POCONG (2011)
+https://bitball.b-cdn.net/movies/02-16-2020/Ada.Apa.Dengan.Pocong.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || POCONG JUGA POCONG (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Poconggg.Juga.Pocong.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || KEPELET KUNITLANAK (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Pelet.Kuntilanak.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || KALUNG JELANGKUNG (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", INDONESIAN || 13 CARA MEMANGGIL SETAN (2011)
+https://bitball.b-cdn.net/movies/02-14-2020/13.Cara.Memanggil.Setan.2011.DVDRip.720p.FMZM.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", The Prodigy (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-29-2020/The.Prodigy.2019.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Riki-Oh: The Story of Ricky (1991)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Riki-Oh.The.Story.of.Ricky.1991.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Cold Prey II (2008)
+https://bitball.b-cdn.net/movies/APRIL/04-28-2020/Fritt.Vilt.2.2008.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", My Soul to Take (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/My.Soul.to.Take.2010.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Hannibal (2001)
+https://bitball.b-cdn.net/movies/APRIL/04-27-2020/Hannibal.2001.REMASTERED.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", The Dark (2018)
+https://bitball.se/movies/APRIL/04-26-2020/The.Dark.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Polaroid (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/Polaroid.2019.720p.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", A Girl Walks Home Alone at Night (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-26-2020/A.Girl.Walks.Home.Alone.at.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", The Shallows (2016)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/The.Shallows.2016.720p.UHD.BluRay.x264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Killer Sofa (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Killer.Sofa.2019.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Flatliners (1990)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Flatliners.1990.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Blade II (2002)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.II.2002.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Blade (1998)
+https://bitball.b-cdn.net/movies/APRIL/04-25-2020/Blade.1998.BluRay.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", The Perfection (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/The.Perfection.2018.480p.NF.WEB-DL.x264.300MB-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Zoo (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-24-2020/Zoo.2018.480p.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", The Den (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/The.Den.2013.480p.WEB-HD.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Salò -  or the 120 Days of Sodom (1975)
+https://bitball.b-cdn.net/movies/APRIL/04-23-2020/Salo.or.the.120.Days.of.Sodom.1975.REMASTERED.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Poker Night (2014)
+https://bitball.se/movies/APRIL/04-22-2020/Poker.Night.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Await Further Instructions (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Await.Further.Instructions.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Us (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/us.2019.480p.bluray.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Funny Games (1997)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/Funny.Games.1997.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Another (2012)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/ANOTHER.2012.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", 12 Feet Deep (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-20-2020/12.Feet.Deep.2017.720p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Ginger Snaps (2000)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Ginger.Snaps.2000.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Evil Angel (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-19-2020/Evil.Angel.2009.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Near Dark (1987)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Near.Dark.1987.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Mutant Girls Squad (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Mutant.Girls.Squad.2010.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Leprechaun Returns (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-18-2020/Leprechaun.Returns.2018.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Isabelle (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Isabelle.2019.480p.WEB-HD.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Tokyo Slaves (2014)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tokyo.Slaves.2014.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", The Innocents (1961)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/The.Innocents.1961.REMASTERED.480p.BluRay.X264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Antichrist (2009)
+https://bitball.b-cdn.net/movies/APRIL/04-14-2020/Antichrist.2009.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Book of Monsters (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-13-2020/Book.of.Monsters.2018.480p.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Silent House (2011)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Silent.House.2011.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Piranha (1978)
+https://bitball.b-cdn.net/movies/APRIL/04-11-2020/Piranha.1978.Remastered.720p.BluRay.x26.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Horns (2013)
+https://bitball.b-cdn.net/movies/APRIL/04-08-2020/Horns.2013.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Inhuman Kiss (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-06-2020/Inhuman.Kiss.2019.480p.NF.WEB-DL.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Granny of the Dead (2017)
+https://bitball.b-cdn.net/movies/APRIL/04-03-2020/Granny.of.the.Dead.2017.480p.WEB-HD.x264.300MB-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Vampire Hunter D: Bloodlust (2000)
+https://bitball.b-cdn.net/movies/03-03-2020/03-30-2020/Vampire.Hunter.D.Bloodlust.2000.480p.BluRay.x264.300MB-Pahe.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Deception of the Novelist (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-02-2020/Deception.Of.The.Novelist.2019.720p.BluRay.X264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Satu Suro (2019)
+https://bitball.se/movies/APRIL/04-22-2020/Satu.Suro.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", MatiAnak (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/MatiAnak.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Makmum (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-21-2020/Makmum.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Sekte (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-17-2020/Sekte.2019.WEB-HD.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Reuni Z (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-16-2020/Reuni.Z.2018.720p.WEB-DL.AAC2.0.H.264-IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Tembang Lingsir (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-15-2020/Tembang.Lingsir.2019.WEB-HD.720p.DD5.1.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Reva: Guna Guna (2019)
+https://bitball.b-cdn.net/movies/APRIL/04-12-2020/Reva.Guna.Guna.2019.WEBRip.720p.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", The Serpent and the Rainbow (1988)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Serpent.And.The.Rainbow.1988.REMASTERED.720p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", The Clinic (2010)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/The.Clinic.2010.480p.BluRay.x264.IDFL.info.mp4
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/satria113/iptv/master/LOGO.png" group-title="VOD MOVIES", Munafik 2 (2018)
+https://bitball.b-cdn.net/movies/APRIL/04-30-2020/Munafik.2.2018.720p.NF.WEB-DL.x264.IDFL.info.mp4
