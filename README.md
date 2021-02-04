@@ -14,7 +14,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chro
 
 # EPG dapat diisi :
 
-http://dev.bkad.xyz/epg/
+http://tvku.live:8888/xmltv.php?username=epg&password=epg
 
 # Menu Playback di Pengaturan
 Decoder pilih HW+
