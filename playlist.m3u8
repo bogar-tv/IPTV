@@ -1,80 +1,159 @@
-#EXTM3U8
+#EXTM3U
+#EXTINF:0,Channel 1
 http://iptvid.my.id/thrill.m3u8
+#EXTINF:0,Channel 2
 http://iptvid.my.id/lifetime.m3u8
+#EXTINF:0,Channel 3
 http://iptvid.my.id/metrotv.m3u8
+#EXTINF:0,Channel 4
 http://iptvid.my.id/cn.m3u8
+#EXTINF:0,Channel 5
 http://iptvid.my.id/dens.m3u8
+#EXTINF:0,Channel 6
 http://iptvid.my.id/drmwrk.m3u8
+#EXTINF:0,Channel 7
 http://iptvid.my.id/eatgo.m3u8
+#EXTINF:0,Channel 8
 http://iptvid.my.id/alquran.m3u8
+#EXTINF:0,Channel 9
 http://iptvid.my.id/net.m3u8
+#EXTINF:0,Channel 10
 http://iptvid.my.id/antara.m3u8
+#EXTINF:0,Channel 11
 http://iptvid.my.id/indosiar.m3u8
+#EXTINF:0,Channel 12
 http://iptvid.my.id/sctv.m3u8
+#EXTINF:0,Channel 13
 http://iptvid.my.id/inews.m3u8
+#EXTINF:0,Channel 14
 http://iptvid.my.id/balitv.m3u8
+#EXTINF:0,Channel 15
 http://iptvid.my.id/kompas.m3u8
+#EXTINF:0,Channel 16
 http://iptvid.my.id/rtv.m3u8
+#EXTINF:0,Channel 17
 http://iptvid.my.id/jtv.m3u8
+#EXTINF:0,Channel 18
 http://iptvid.my.id/nusantara.m3u8
+#EXTINF:0,Channel 19
 http://iptvid.my.id/transtv.m3u8
+#EXTINF:0,Channel 20
 http://iptvid.my.id/trans7.m3u8
+#EXTINF:0,Channel 21
 http://iptvid.my.id/indonesiana.m3u8
+#EXTINF:0,Channel 22
 http://iptvid.my.id/jaktv.m3u8
+#EXTINF:0,Channel 23
 http://iptvid.my.id/daai.m3u8
+#EXTINF:0,Channel 24
 http://iptvid.my.id/mytv.m3u8
+#EXTINF:0,Channel 25
 http://iptvid.my.id/atv.m3u8
+#EXTINF:0,Channel 26
 http://iptvid.my.id/myca.m3u8
+#EXTINF:0,Channel 27
 http://iptvid.my.id/myfc.m3u8
+#EXTINF:0,Channel 28
 http://iptvid.my.id/mycn.m3u8
+#EXTINF:0,Channel 29
 http://iptvid.my.id/axn.m3u8
+#EXTINF:0,Channel 30
 http://iptvid.my.id/glx.m3u8
+#EXTINF:0,Channel 31
 http://iptvid.my.id/glxprem.m3u8
+#EXTINF:0,Channel 32
 http://iptvid.my.id/hits.m3u8
+#EXTINF:0,Channel 33
 http://iptvid.my.id/hitsmovie.m3u8
+#EXTINF:0,Channel 34
 http://iptvid.my.id/kix.m3u8
+#EXTINF:0,Channel 35
 http://iptvid.my.id/paramount.m3u8
+#EXTINF:0,Channel 36
 http://iptvid.my.id/sone.m3u8
+#EXTINF:0,Channel 37
 http://iptvid.my.id/tvn.m3u8
+#EXTINF:0,Channel 38
 http://iptvid.my.id/tvnmovie.m3u8
+#EXTINF:0,Channel 39
 http://iptvid.my.id/chinesedrm.m3u8
+#EXTINF:0,Channel 40
 http://iptvid.my.id/wrnr.m3u8
+#EXTINF:0,Channel 41
 http://iptvid.my.id/cnmwrld.m3u8
+#EXTINF:0,Channel 42
 http://iptvid.my.id/c_europe.m3u8
+#EXTINF:0,Channel 43
 http://iptvid.my.id/c_indonesia.m3u8
+#EXTINF:0,Channel 44
 http://iptvid.my.id/clstl.m3u8
+#EXTINF:0,Channel 45
 http://iptvid.my.id/zeeb.m3u8
+#EXTINF:0,Channel 46
 http://iptvid.my.id/imc.m3u8
+#EXTINF:0,Channel 47
 http://iptvid.my.id/flik.m3u8
+#EXTINF:0,Channel 48
 http://iptvid.my.id/insert.m3u8
+#EXTINF:0,Channel 49
 http://iptvid.my.id/dnln.m3u8
+#EXTINF:0,Channel 50
 http://iptvid.my.id/biosid.m3u8
+#EXTINF:0,Channel 51
 http://iptvid.my.id/sgem.m3u8
+#EXTINF:0,Channel 52
 http://iptvid.my.id/afc.m3u8
+#EXTINF:0,Channel 53
 http://iptvid.my.id/rock.m3u8
+#EXTINF:0,Channel 54
 http://iptvid.my.id/rockext.m3u8
+#EXTINF:0,Channel 55
 http://iptvid.my.id/kbsw.m3u8
+#EXTINF:0,Channel 56
 http://iptvid.my.id/kplus.m3u8
+#EXTINF:0,Channel 57
 http://iptvid.my.id/nhkw.m3u8
+#EXTINF:0,Channel 58
 http://iptvid.my.id/tlc.m3u8
+#EXTINF:0,Channel 59
 http://iptvid.my.id/formosa.m3u8
+#EXTINF:0,Channel 60
 http://iptvid.my.id/t_storm.m3u8
+#EXTINF:0,Channel 61
 http://iptvid.my.id/kungfutv.m3u8
+#EXTINF:0,Channel 62
 http://iptvid.my.id/prambors.m3u8
+#EXTINF:0,Channel 63
 http://iptvid.my.id/mtv.m3u8
+#EXTINF:0,Channel 64
 http://iptvid.my.id/ikonser.m3u8
+#EXTINF:0,Channel 65
 http://iptvid.my.id/natgeo.m3u8
+#EXTINF:0,Channel 66
 http://iptvid.my.id/ngwild.m3u8
+#EXTINF:0,Channel 67
 http://iptvid.my.id/dsc.m3u8
+#EXTINF:0,Channel 68
 http://iptvid.my.id/lingua.m3u8
+#EXTINF:0,Channel 69
 http://iptvid.my.id/pandatv.m3u8
+#EXTINF:0,Channel 70
 http://iptvid.my.id/history.m3u8
+#EXTINF:0,Channel 71
 http://iptvid.my.id/bloomberg.m3u8
+#EXTINF:0,Channel 72
 http://iptvid.my.id/outdoor.m3u8
+#EXTINF:0,Channel 73
 http://iptvid.my.id/aniplus.m3u8
+#EXTINF:0,Channel 74
 http://iptvid.my.id/animax.m3u8
+#EXTINF:0,Channel 75
 http://iptvid.my.id/davinci.m3u8
+#EXTINF:0,Channel 76
 http://iptvid.my.id/duniaanak.m3u8
+#EXTINF:0,Channel 77
 http://iptvid.my.id/horee.m3u8
+#EXTINF:0,Channel 78
 http://iptvid.my.id/nickjr.m3u8
+#EXTINF:0,Channel 79
 http://iptvid.my.id/nickelodeon.m3u8
